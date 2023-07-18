@@ -2,6 +2,9 @@
 
 Personalized repository of utilizations in Unity 2022 URP
 
+# Dependencies
+
+
 # Third Party
 
 - [NativeWebSockets](https://github.com/endel/NativeWebSocket)
